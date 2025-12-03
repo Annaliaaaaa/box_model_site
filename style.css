@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+.content-box {
+    background: lightyellow;
+}
+
+.padding-box {
+    background: lightgreen;
+    padding: 20px;
+}
+
+.border-box {
+    background: lightblue;
+    border: 4px solid navy;
+}
+
+.margin-box {
+    background: lavender;
+    border: 2px solid purple;
+    margin: 30px;
+}
+
+.full-box {
+    background: peachpuff;
+    padding: 20px;
+    border: 5px dashed brown;
+    margin: 40px;
+}
+
+.content-box,
+.padding-box,
+.border-box,
+.margin-box,
+.full-box {
+    width: 250px;
+    min-height: 60px;
+    margin-bottom: 30px;
+}
