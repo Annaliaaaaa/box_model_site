@@ -1,33 +1,41 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Georgia, serif;
     padding: 20px;
     line-height: 1.6;
 }
 
+body {
+    color: darkgray
+}
+
+background-color {
+    background-color: HoneyDew;
+}
+
 .content-box {
-    background: lightyellow;
+    background: LavenderBlush;
 }
 
 .padding-box {
-    background: lightgreen;
+    background: Lavender;
     padding: 20px;
 }
 
 .border-box {
-    background: lightblue;
-    border: 4px solid navy;
+    background: honeydew;
+    border: 4px solid rgb(184, 212, 184);
 }
 
 .margin-box {
-    background: lavender;
-    border: 2px solid purple;
+    background: lavenderblush;
+    border: 2px solid Thistle;
     margin: 30px;
 }
 
 .full-box {
-    background: peachpuff;
+    background: lavender;
     padding: 20px;
-    border: 5px dashed brown;
+    border: 5px dashed rgb(171, 171, 208);
     margin: 40px;
 }
 
