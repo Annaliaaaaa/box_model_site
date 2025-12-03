@@ -23,20 +23,20 @@ background-color {
 
 .border-box {
     background: honeydew;
-    border: 4px solid rgb(184, 212, 184);
+    border: 5px solid rgb(184, 212, 184);
 }
 
 .margin-box {
     background: lavenderblush;
-    border: 2px solid Thistle;
-    margin: 30px;
+    border: 3px solid Thistle;
+    margin: 60px;
 }
 
 .full-box {
     background: lavender;
     padding: 20px;
-    border: 5px dashed rgb(171, 171, 208);
-    margin: 40px;
+    border: 6px dashed rgb(171, 171, 208);
+    margin: 60px;
 }
 
 .content-box,
